@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Digital_Card_React/static/css/main.00af3644.css",
+    "main.js": "/Digital_Card_React/static/js/main.01dcffb1.js",
+    "static/media/Kunnal.jpeg": "/Digital_Card_React/static/media/Kunnal.2d1a562d14808aeab882.jpeg",
+    "index.html": "/Digital_Card_React/index.html",
+    "main.00af3644.css.map": "/Digital_Card_React/static/css/main.00af3644.css.map",
+    "main.01dcffb1.js.map": "/Digital_Card_React/static/js/main.01dcffb1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00af3644.css",
+    "static/js/main.01dcffb1.js"
+  ]
+}
