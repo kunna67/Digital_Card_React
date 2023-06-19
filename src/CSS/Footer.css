@@ -1,0 +1,24 @@
+.Footer {
+    background-color: #161619;
+    border-radius: 0 0 8px 8px;
+  }
+  
+  .Footer ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 5rem;
+  }
+  
+  .Footer ul > li {
+    width: 25px;
+    height: 25px;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .Footer a {
+    color: #918e9b;
+  }

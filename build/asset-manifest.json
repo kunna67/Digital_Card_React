@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.00af3644.css",
+    "main.js": "/static/js/main.5f59b77a.js",
+    "static/media/AyaanImg.jpg": "/static/media/AyaanImg.af86446c522f80dc6df9.jpg",
+    "index.html": "/index.html",
+    "main.00af3644.css.map": "/static/css/main.00af3644.css.map",
+    "main.5f59b77a.js.map": "/static/js/main.5f59b77a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00af3644.css",
+    "static/js/main.5f59b77a.js"
+  ]
+}

@@ -1,0 +1,73 @@
+.--info-image {
+    width: 317px;
+    aspect-ratio: 1;
+    border-radius: 8px 8px 0 0;
+  }
+  
+  .Info h1 {
+    text-align: center;
+    font-size: 25px;
+    margin: 1.5rem 0 0.3rem 0;
+    line-height: 30px;
+    line-height: 100%;
+    font-weight: 700;
+  }
+  
+  .Info h2 {
+    text-align: center;
+    color: #f3bf99;
+    font-size: 12.8px;
+    font-weight: 400;
+    line-height: 15px;
+    line-height: 100%;
+  }
+  
+  .--info-portfolio {
+    color: #ffffff;
+    text-decoration: none;
+  }
+  
+  .--info-portfolio:active {
+    color: #ffffff;
+  }
+  
+  .Info p {
+    text-align: center;
+    font-size: 10.24px;
+    margin: 0.5rem 0;
+  }
+  
+  .--info-buttons {
+    display: flex;
+    justify-content: space-around;
+    padding: 1.2rem;
+  }
+  
+  .Info button {
+    width: 115px;
+    height: 34px;
+    border: none;
+    border-radius: 6px;
+    font-size: 14px;
+    line-height: 16px;
+  }
+  
+  .--info-email a {
+    text-decoration: none;
+    color: #374151;
+  }
+  
+  .--info-email {
+    background-color: #ffffff;
+    color: #374151;
+  }
+  
+  .--info-linkedin a {
+    text-decoration: none;
+    color: #ffffff;
+  }
+  
+  .--info-linkedin {
+    background-color: #5093e2;
+    color: #ffffff;
+  }
